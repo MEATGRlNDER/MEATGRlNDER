@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width="498" height="281" alt="cuptoast-tom" src="https://github.com/user-attachments/assets/e1937549-8b9e-4167-bb31-7e0c7660c36e" />
 
-<!--
-**calic0catz/calic0catz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CALICO / HANK / TOM
 
-Here are some ideas to get you started:
+[Straw]https://themeatgrinder.straw.page
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Newgrounds]https://calic0catz.newgrounds.com/
+
+[ATA]https://calicocats.atabook.org/
+
+[Pronouns.CC]https://pronouns.cc/@calicocatz
+
+<img src="https://media1.tenor.com/m/H5Inm7VQ2FUAAAAC/cuptoast-crumbtoast.gif" alt="a drawing of a person with the word cuptoast on the bottom left"/>
