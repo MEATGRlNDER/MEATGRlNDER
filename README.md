@@ -4,7 +4,11 @@
 
 # <p align="center">' My body feels so light ! '
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kl4ukw6n7chi3bahgm3enwbtda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kl4ukw6n7chi3bahgm3enwbtda&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kl4ukw6n7chi3bahgm3enwbtda&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 <p align="center"> <img width="99" height="56" alt="277a3737-51f8-41be-9349-7f60912c76bb" src="https://github.com/user-attachments/assets/b89397a5-882b-486f-9fb9-c070938a27dd" /> <img width="101" height="58" alt="cec922eb-1efe-40da-9d67-e4d60ff46ff3" src="https://github.com/user-attachments/assets/eac43a63-546c-41b2-a07f-ca30a8593ff5" /><img width="99" height="56" alt="fd83c3f9-c28c-4025-923c-bc0c1b40319f" src="https://github.com/user-attachments/assets/a899ddf0-fb74-482e-b7dd-fc673b7911da" /><img width="99" height="56" alt="693bd158-84fa-4037-9cfd-1ee14eee4b3f" src="https://github.com/user-attachments/assets/73d57fc7-2058-45b8-8eac-ad54dae3d8ee" /> <img width="99" height="56" alt="cedde7a2-98f9-42de-bce7-dbf9cda798c2" src="https://github.com/user-attachments/assets/5996f976-381c-4d7e-9f45-0c2e880551e9" /> 
 
