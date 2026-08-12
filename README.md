@@ -1,5 +1,5 @@
 
-<p align="center"><img width="337" height="593" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/ae182e03-9ecf-4811-84eb-9fb73e69cf10" /></p>
+<p align="center"><img width="264" height="384" alt="Bender_Rodriguez" src="https://github.com/user-attachments/assets/69a1300b-4ddc-4876-bdc3-9995d3d65f21" />
 
 
 
