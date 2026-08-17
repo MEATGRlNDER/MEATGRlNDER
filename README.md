@@ -1,5 +1,6 @@
 
-<img width="1550" height="650" alt="tumblr_46ffe5babf6558630f4c89ab6432589b_a0934ae7_2048" src="https://github.com/user-attachments/assets/88484484-be51-4cac-b242-dd0d3c353f69" />
+<img width="1900" height="1900" alt="Rendervenomshank" src="https://github.com/user-attachments/assets/ba472443-e905-4be8-9d20-890f5b5a1792" />
+
 
 
 
@@ -13,8 +14,9 @@
   </a>
 </p>
 
+# <p align="center"> [ATA](https://meatgrinder.atabook.org/) / [STRAW](https://meatgr1nder.straw.page) / [PRNS](https://pronouns.cc/@MEATGRlNDER)
 # <p align="center"> [My dear Morty](https://github.com/MORTYLING)
 
 
-<p align="left"><img width="2000" height="1125" alt="tumblr_325adaba32a1f299dd4c9e63d4c29740_132546d9_2048" src="https://github.com/user-attachments/assets/eb3e9d8d-9ecf-4cf5-a020-04e74c63b4c5" />
+
 
