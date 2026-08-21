@@ -1,6 +1,5 @@
 
-<img width="1900" height="1900" alt="Rendervenomshank" src="https://github.com/user-attachments/assets/ba472443-e905-4be8-9d20-890f5b5a1792" />
-
+<p align="center"><img width="800" height="450" alt="39ad88d3e6001ee0fc6a1e738401228d" src="https://github.com/user-attachments/assets/5bc341a3-e3ca-4b9d-83d1-28fc0af90e3b" />
 
 
 
