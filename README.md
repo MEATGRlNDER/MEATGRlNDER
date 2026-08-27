@@ -11,4 +11,4 @@
 </p>
 
 # <p align="center"> [ATA](https://meatgrinder.atabook.org/) / [STRAW](https://meatgr1nder.straw.page) / [PRNS](https://pronouns.cc/@MEATGRlNDER)
-# <p align="center"> [My dear Coyle<3](https://github.com/MORTYLING)
+# <p align="center"> [My dear Will<3](https://github.com/MORTYLING)
